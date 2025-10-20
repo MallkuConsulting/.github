@@ -1,7 +1,7 @@
 <div align="center">
 	<picture>
-		<source srcset="/MallkuSMALL.jpg">
-		<img alt="Mallku Engineering Consulting Logo" width="500px" src="/MallkuSMALL.jpg">
+		<source srcset="./Mallku.jpg">
+		<img alt="Mallku Engineering Consulting Logo" width="500px" src="./Mallku.jpg">
 	</picture>
 </div>
 
